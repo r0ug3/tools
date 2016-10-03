@@ -31,6 +31,8 @@ __Reference to Tools__
      * [Burpsuite]
      * [`sqlmap`][sqlmap]
      * [Zed Attack Proxy][ZAP]
+* __PHP__
+    - [`phpdc.phpr`][phpdc.phpr] ... to decode [`bcompiler`][bcompiler] compiled [PHP] code.
 * __Encryption__
      * [VBScript Decoder]
      * [`xortool`][xortool]
@@ -416,3 +418,5 @@ __Reference to Tools__
 [PEiD]: https://www.aldeid.com/wiki/PEiD
 [vinetto]: http://vinetto.sourceforge.net/
 [Thumbs.db]: http://www.howtogeek.com/237091/what-are-the-thumbs.db-desktop.ini-and-.ds_store-files/
+[phpdc.phpr]: https://github.com/lighttpd/xcache/blob/master/bin/phpdc.phpr
+[bcompiler]: http://php.net/manual/en/book.bcompiler.php
