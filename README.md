@@ -7,6 +7,9 @@ The purpose of this repository is to act as an archive of tools that either we [
 __Reference to Tools__
 =========
 
+* __Audio Files ([`.wav`][wav], [`.flac`][flac], etc..)__
+    - Julian's [MATLAB] code for Least Significant Bit
+    - [Sonic Visualiser]... to easily view the [spectrogram] of an audio file
 * __Steganography__
      * [`stegsolve.jar`][Stegsolve]
      * [Steghide]
@@ -33,6 +36,8 @@ __Reference to Tools__
      * [Zed Attack Proxy][ZAP]
 * __PHP__
     - [`phpdc.phpr`][phpdc.phpr] ... to decode [`bcompiler`][bcompiler] compiled [PHP] code.
+* __Windows Binaries__
+    - [`x64dbg`][x64dbg] ... to reverse and debug [Windows] binaries
 * __Encryption__
      * [VBScript Decoder]
      * [`xortool`][xortool]
@@ -420,3 +425,9 @@ __Reference to Tools__
 [Thumbs.db]: http://www.howtogeek.com/237091/what-are-the-thumbs.db-desktop.ini-and-.ds_store-files/
 [phpdc.phpr]: https://github.com/lighttpd/xcache/blob/master/bin/phpdc.phpr
 [bcompiler]: http://php.net/manual/en/book.bcompiler.php
+[x64dbg]: http://x64dbg.com/
+[MATLAB]: https://www.mathworks.com/products/matlab/
+[wav]: https://en.wikipedia.org/wiki/WAV
+[flac]: https://en.wikipedia.org/wiki/FLAC
+[Sonic Visualiser]: http://www.sonicvisualiser.org/
+[spectrogram]: https://en.wikipedia.org/wiki/Spectrogram
