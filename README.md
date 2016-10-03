@@ -46,6 +46,7 @@ __Reference to Tools__
      * [`scalpel`][Scalpel]
      * [`foremost`][foremost]
      * [PDFCrack]
+     * [`vinetto`][vinetto] ... for examining [Thumbs.db] files
      * [`aeskeyfind`][aeskeyfind]
      * [`rsakeyfind`][rsakeyfind]
      * [Volatility] ... for memory files like `.vmss` or `.vdi`
@@ -413,3 +414,5 @@ __Reference to Tools__
 [file]: https://en.wikipedia.org/wiki/File_%28command%29
 [PE Tools]: http://pe-tools.soft112.com/
 [PEiD]: https://www.aldeid.com/wiki/PEiD
+[vinetto]: http://vinetto.sourceforge.net/
+[Thumbs.db]: http://www.howtogeek.com/237091/what-are-the-thumbs.db-desktop.ini-and-.ds_store-files/
