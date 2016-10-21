@@ -27,6 +27,9 @@ __Reference to Tools__
      * [Wireshark]
      * [`bro`][bro]
      * [CapLoader]
+* __[PDF] Files__
+    * pdfdetach ... to extract embedded files within a [PDF] file
+    * [PDFCrack]
 * __Exploit/Shellcode__
      * [Meterpreter]/[Metasploit]
      * [`getenvaddr.c`][getenvaddr.c]
@@ -52,7 +55,6 @@ __Reference to Tools__
 * __Forensics__
      * [`scalpel`][Scalpel]
      * [`foremost`][foremost]
-     * [PDFCrack]
      * [`vinetto`][vinetto] ... for examining [Thumbs.db] files
      * [`aeskeyfind`][aeskeyfind]
      * [`rsakeyfind`][rsakeyfind]
