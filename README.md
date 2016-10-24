@@ -61,6 +61,13 @@ __Reference to Tools__
      * [Volatility] ... for memory files like `.vmss` or `.vdi`
      * [Autopsy] ... for disk image files like `.img`
      * [`binwalk`][binwalk]
+* __Host Based Forensics__
+    - `ewfmount` .. encase/expert witness format
+    - `mount` ... to mount a drive
+    - `umount` ... to _unmount_ a drive
+    - `mmls` ... Display the partition layout of a volume system (partition tables)
+    - `Gpart` ... if the image is corrupt, can it be fixed? 
+    - [`f-response`][f-response] ... 
 * __Reconnaissance__
     * [HTTrack] ... to scrape entire websites
     * [theHarvester] ... to detect and scrape e-mail addresses
